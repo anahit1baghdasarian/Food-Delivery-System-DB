@@ -1,5 +1,12 @@
 # Food-Delivery-System-DB
 
+## **Project Overview: Food Delivery System Database Design**
+
+Our project focuses on designing a SQL database tailored for a Food Delivery System. This database will efficiently manage crucial information such as user details, restaurant listings, menu items, orders, and delivery personnel. By creating a well-structured and optimized database schema, we aim to provide a solid foundation for future development of the Food Delivery System software.
+
+
+## **Files Included:**
+
 - **FoodDeliver.sql**
   - This SQL script file, named "FoodDeliver.sql," contains the database schema and commands necessary to create and manage the Food Delivery System database. It includes tables, and constraints related to the functionality of the system.
 
